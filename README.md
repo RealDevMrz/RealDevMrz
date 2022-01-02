@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **php**
 
-- ⚡ Fun fact **@XxDevSshxX is my gf**
+- ⚡ Fun fact **[XxDevSshxX](https://github.com/XxDevSshxX) is my gf 💞💓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
