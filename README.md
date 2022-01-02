@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm xXDevMrzXx</h1>
 <h3 align="center">A developer from Iran</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xxdevmrzxx&label=Viewers&color=44ff00&style=flat" alt="xxdevmrzxx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xxdevmrzxx&label=Viewers&color=44ff00&style=flat-square" alt="xxdevmrzxx" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xxdevmrzxx" alt="xxdevmrzxx" /></a> </p>
 
